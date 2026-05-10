@@ -1,6 +1,6 @@
 import { 
   Download, ShieldCheck, Zap, Smartphone, Wallet, ChevronDown, 
-  CheckCircle2, Globe, Cpu, LayoutDashboard, Sparkles, Plus 
+  CheckCircle2, Globe, Cpu, LayoutDashboard, Sparkles
 } from 'lucide-react';
 
 function App() {
